@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Isam
+title: Isam Al Jawarneh
 
 # Name pronunciation (optional)
 name_pronunciation: ''
