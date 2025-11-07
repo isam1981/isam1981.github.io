@@ -77,9 +77,10 @@ education:
     institution: Al Al-Bayt University, JORDAN
     date_start: 2000-09-01
     date_end: 2005-05-31
-# GPA: 3.9/4.0
-#Minored in Mathematics. President of AI Club.
     summary: |
+     # GPA: 3.9/4.0
+
+      Minored in Mathematics. President of AI Club.
 
 work:
   - position: Senior AI Research Scientist
