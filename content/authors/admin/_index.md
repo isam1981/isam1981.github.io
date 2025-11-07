@@ -68,7 +68,7 @@ education:
   - area: MS Information Technology
     institution: Universiti Utara Malaysia, MALAYSIA
     date_start: 2007-09-01
-    date_end: 2008-09-31
+    date_end: 2008-09-01
     summary: |
       GPA: 4.0/4.0
 
